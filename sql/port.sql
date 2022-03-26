@@ -1,4 +1,4 @@
---airport
+-- airport
 create table port (
     id int primary key auto_increment,
     code varchar(3) unique key,
